@@ -1,6 +1,6 @@
 # Create cards in Trello with Alfred
 
-![https://raw.githubusercontent.com/persand/alfred-trello-add-card/master/screenshot.png](Creating Trello cards with Alfred)
+![Creating Trello cards with Alfred](https://raw.githubusercontent.com/persand/alfred-trello-add-card/master/screenshot.png)
 
 How to use:
 
